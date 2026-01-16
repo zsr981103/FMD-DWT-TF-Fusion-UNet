@@ -204,14 +204,7 @@ Results are saved in `data/record_result/` including:
 
 If you use this code in your research, please cite:
 
-```bibtex
-@article{fmd_dwtsunet,
-  title={FMD-DWTSUNet: Seismic Data Denoising using Feature Mode Decomposition and Dual-Wavelet Transform Spatial Attention UNet},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
-}
-```
+
 
 ## License
 
@@ -226,4 +219,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the maintainers.
+
 
